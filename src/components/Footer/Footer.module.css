@@ -6,3 +6,7 @@
   text-align: center;
 }
 
+
+a {
+  color: hsl(0deg, 0%, 100%);
+}
